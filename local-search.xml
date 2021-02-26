@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>hexo 使用教程</title>
+    <link href="/2021/02/25/hexo-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <url>/2021/02/25/hexo-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<p>我好像是20年在家开始接触到hexo💕的，那会在B站关注的up主出了一期利用hexo和github page建一个个人博客的视频。其实我到目前为止，都还没有好好写过什么文章到blog上。现在呢，是21年寒假，我又想到了它，决定写一些自己的学习记录、生活感谢啥的，今天，就先写一篇hexo教程了🙌。也方便自己👀。emmmm我就按照自己的使用来写吧。这有官方文档📜<a href="https://hexo.io/docs/index.html">hexo doc</a>.</p><a id="more"></a><h3 id="hexo的安装"><a href="#hexo的安装" class="headerlink" title="hexo的安装"></a>hexo的安装</h3><blockquote><p>前提：计算机安装了node和git<br>这两个软件的安装，可以在网上直接搜索。但可能下载慢，可以科学上网或者使用镜像。这些软件的安装，我就单独写吧，写一系列的安装过程…  </p></blockquote><p>在终端输入下面命令：</p><figure class="highlight autoit"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs autoit">npm install -g hexo-cli    <span class="hljs-meta">#<span class="hljs-string">&quot;or &#x27;cnpm install -g hexo-cli&#x27; suggest use cnpm&quot;</span></span><br></code></pre></td></tr></table></figure><p>在安装完成后，在终端输入下面命令：</p><figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><span class="hljs-attribute">hexo -v</span><br></code></pre></td></tr></table></figure><p>如果显示了hexo的版本等信息就说明安装好了吧。  </p><h3 id="hexo工作目录的初始化"><a href="#hexo工作目录的初始化" class="headerlink" title="hexo工作目录的初始化"></a>hexo工作目录的初始化</h3><p>在终端进入想要放置hexo初始化文件的目录。然后输入下面命令：  </p><figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs cmake">hexo init<br>npm <span class="hljs-keyword">install</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
